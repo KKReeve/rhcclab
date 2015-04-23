@@ -1,0 +1,9 @@
+Package: rhcclab
+Type: Package
+Title: A library with common functions needed our analysis at hcclab.
+Version: 1.0
+Date: 2015-04-23
+Author: Benjamin Karran
+Maintainer: Benjamin Karran <benjamin@karran.eu>
+Description: A library with common functions needed our analysis at hcclab.
+License: MIT License
